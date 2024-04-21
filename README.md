@@ -11,7 +11,7 @@ Nanyang Technological University
 
 April 2024
 
-This repository is submitted to Nanyang Technological University as part of a graded assignment for the course CZ1115 (Introduction to Data Science & Artificial Intelligence).
+This repository is submitted to Nanyang Technological University as part of a graded assignment for the course SC1015 (Introduction to Data Science & Artificial Intelligence).
 
 Repository Contents : 
 
