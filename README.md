@@ -48,8 +48,11 @@ Presentation File Mini Project.pdf
 
 	A copy of our presentation file
  
-References
+References:
 
 https://www.kaggle.com/code/shubhammaheshwari1/sunspots-analysis/notebook
 https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
 https://ourworldindata.org/co2-emissions
+https://www.geeksforgeeks.org/lag-plots/
+https://www.geeksforgeeks.org/python-pandas-plotting-the-autocorrelation-plot/
+https://www.geeksforgeeks.org/how-to-make-a-time-series-plot-with-rolling-average-in-python/
