@@ -25,11 +25,17 @@ FDAC Team03 :
 
 File Description : 
 FDAC_Group3_Mini Project.ipynb
+
 	A jupyter notebook containing the main source code for the project. 
+ 
 README.txt
+
 	Basic information about the project repository.
+ 
 Sunspots.csv
+
 	Dataset for number of sunspots
+ 
 GlobalTemperatures.csv
 	Dataset for global temperature
 annual-co2-emissions-per-country.csv
