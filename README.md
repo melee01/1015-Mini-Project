@@ -37,8 +37,14 @@ Sunspots.csv
 	Dataset for number of sunspots
  
 GlobalTemperatures.csv
+
 	Dataset for global temperature
+ 
 annual-co2-emissions-per-country.csv
+
 	Dataset for annual carbon dioxide emission
+ 
 Presentation File Mini Project.pdf
+
 	A copy of our presentation file
+ 
