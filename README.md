@@ -74,6 +74,10 @@ In recent years, global temperature has been increasing significantly. Our proje
 * CO2 global emission overshadows solar activity's effect on global temperature.
 * Multivariate regression can be used to build temperature prediction models using CO2 global emission and number of sunspots as parameters.
 
+### Contributions : 
+Gilbert Adriel Tantoso : Dataset Cleaning, Data Visualization, Exploratory Data Analysis, Powerpoint File. 
+Lionel Owen Wijaya     : Dataset Cleaning, Data Visualization, Exploratory Data Analysis, Powerpoint File.
+Melisa Lee             : Dataset Searching, Exploratory Data Analysis, Machine Learning (Multivariate Regression). 
  
 ## References :
 
