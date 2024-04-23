@@ -75,13 +75,14 @@ In recent years, global temperature has been increasing significantly. Our proje
 * Multivariate regression can be used to build temperature prediction models using CO2 global emission and number of sunspots as parameters.
 
 ### Contributions : 
-Gilbert Adriel Tantoso : Dataset Cleaning, Data Visualization, Exploratory Data Analysis, Powerpoint File. 
-Lionel Owen Wijaya     : Dataset Cleaning, Data Visualization, Exploratory Data Analysis, Powerpoint File.
-Melisa Lee             : Dataset Searching, Exploratory Data Analysis, Machine Learning (Multivariate Regression). 
+* Gilbert Adriel Tantoso : Dataset Cleaning, Data Visualization, Exploratory Data Analysis, Powerpoint File. 
+* Lionel Owen Wijaya     : Dataset Cleaning, Data Visualization, Exploratory Data Analysis, Powerpoint File.
+* Melisa Lee             : Dataset Searching, Exploratory Data Analysis, Machine Learning (Multivariate Regression). 
  
 ## References :
 
-https://www.kaggle.com/code/shubhammaheshwari1/sunspots-analysis/notebook
+https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python
+https://www.kaggle.com/code/residentmario/time-series-plotting-optional
 https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
 https://ourworldindata.org/co2-emissions
 https://www.geeksforgeeks.org/lag-plots/
